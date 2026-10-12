@@ -1,8 +1,5 @@
 # Nutanix AHV and Prism Guide.
 
-Study notes covering VM templates, Prism metrics and analysis, AHV High Availability, storage resiliency, monitoring, and secure administration.
-
-> **Version note:** Prism and AOS menu names and chart behavior can vary by release. Always confirm the exact behavior in the Nutanix version being used.
 
 ## Table of Contents
 
