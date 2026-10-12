@@ -1,4 +1,4 @@
-# Nutanix AHV and Prism Training Guide.
+# Nutanix AHV and Prism Guide.
 
 Study notes covering VM templates, Prism metrics and analysis, AHV High Availability, storage resiliency, monitoring, and secure administration.
 
